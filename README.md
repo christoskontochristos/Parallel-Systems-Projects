@@ -21,6 +21,8 @@ The projects cover different approaches to parallel computing, including **POSIX
 - **Matrix-Vector Multiplication:** Parallel computation through column-wise matrix distribution, custom MPI datatypes, and MPI reduction operations.
 - Performance evaluation using different numbers of processes and problem sizes.
 
+**4. Completion of the NVIDIA course: Getting Started with Accelerated Computing in CUDA C/C++**
+
 ### Technologies
 - C
 - POSIX Threads (Pthreads)
